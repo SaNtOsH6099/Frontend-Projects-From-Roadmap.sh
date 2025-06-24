@@ -1,13 +1,8 @@
-# Frontend-Projects-From-Roadmap.sh
-Frontend Development Journey
+# Basic HTML Website
 
-🚀 My Frontend Development Journey
+This is a submission for the [Basic HTML Website Project on Roadmap.sh](https://roadmap.sh/projects/basic-html-website).
 
-This repository contains all the projects, exercises, and mini-apps I’m building as I follow the Frontend Developer Roadmap. It includes hands-on practice with HTML, CSS, JavaScript, and popular frameworks like React, along with real-world project examples.
+## 🔗 Project Page
 
-📌 Each folder represents a project or concept from the roadmap.
+https://santosh6099.github.io/Frontend-Projects-From-Roadmap.sh/Project%202%20Basic%20Html%20Website/
 
-Stay tuned as I grow and learn step by step! 🌱
-
-## Frontend Projects:
-[Single-Page CV](https://roadmap.sh/projects/single-page-cv),[Basic HTML Website](https://roadmap.sh/projects/single-page-cv)
