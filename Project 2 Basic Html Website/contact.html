@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="simple HTML only website with multiple pages">
+    <meta property="og:title" content="Basic Html Website">
+    <meta property="og:description" content="simple HTML only website with multiple pages">
+    <meta property="og:image" content="">
+    <link rel=" icon" href="https://img.icons8.com/arcade/64/parse-from-clipboard.png">
+    <title>Projects page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+
+        <nav class="flex">
+            <div class="logo flex">
+                <img src="xyz.png" alt="logo">
+                <h1>Santosh Chandra</h1>
+            </div>
+            <div>
+                <ul class="flex">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="projects.html">Projects</a></li>
+                    <li><a href="progess.html">Progress</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <header>
+            <h1>Contact Me</h1>
+        </header>
+
+        <div class="email contact">
+            <label for="email">Email: </label>
+            <a href="">santoshxyz@gmail.com</a>
+        </div>
+        <div class="phone contact">
+            <label for="phone">Phone: </label>
+            <span>+91-XXXXXXXXXX</span>
+        </div>
+        <div class="github contact">
+            <label for="github">Github: </label>
+            <a href="https://github.com/SaNtOsH6099">Profile</a>
+        </div>
+        <div class="email contact">
+            <label for="email">Linkedin: </label>
+            <a href="https://www.linkedin.com/in/santoshchandra/">Profile</a>
+        </div>
+
+        <p>Or, send me a message directly through the form below:</p>
+
+        <form action="mailto:santosh@example.com" method="post" enctype="text/plain">
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name" required><br><br>
+
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="message">Message:</label><br>
+            <textarea id="message" name="message" rows="5" required></textarea><br><br>
+
+            <input type="submit" value="Send Message">
+        </form>
+
+    </div>
+</body>
+
+</html>

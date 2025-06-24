@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0.1rem;
+  box-sizing: border-box;
+}
+.flex {
+  display: flex;
+}
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav {
+  justify-content: space-between;
+  font-size: 1.1rem;
+  color: rgb(234, 233, 233);
+  background-color: rgb(133, 99, 236);
+  border-radius: 1rem;
+}
+
+nav ul {
+  gap: 1rem;
+  list-style: none;
+}
+li a {
+  color: rgb(240, 231, 231);
+}
+main h3 {
+  text-decoration: underline;
+  color: rgb(26, 91, 202);
+}
+main h1 {
+  color: rgb(255, 127, 127);
+}
+.container {
+  background-color: bisque;
+}
+
+div ul {
+  margin-left: 1rem;
+}
+/* ----------------------------------projects---------------------------- */
+
+header {
+  text-align: center;
+}
+header h1 {
+  color: rgb(255, 127, 127);
+  font-size: 3rem;
+}
+header p {
+  font-size: 1.2rem;
+  color: rgb(175, 29, 29);
+}
+section {
+  margin: 1rem;
+}
+section h2 {
+  color: rgb(100, 137, 200);
+  font-size: 2rem;
+}
+section a {
+  color: rgb(216, 155, 247);
+  font-weight: bold;
+}
+/* --------------------progess------------- */
+.skill-container {
+  background-color: rgb(123, 216, 196);
+  border-radius: 1rem;
+}
+
+.skills {
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem;
+}
+.skills .progress-bar {
+  width: 70%;
+  background-color: rgb(225, 248, 253);
+  border-radius: 1rem;
+  margin: auto;
+}
+
+.skills h2 {
+  width: 20%;
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+
+.progress-bar .progress {
+  background-color: rgb(133, 99, 236);
+  border-radius: 1rem;
+  color: white;
+  text-align: center;
+}
+/* ----------------------contact-------------- */
+
+.contact label,
+.contact a {
+  font-size: 2rem;
+}
+
+a {
+  text-decoration: none;
+}
