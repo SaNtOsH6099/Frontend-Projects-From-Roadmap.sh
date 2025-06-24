@@ -8,3 +8,6 @@ This repository contains all the projects, exercises, and mini-apps I’m buildi
 📌 Each folder represents a project or concept from the roadmap.
 
 Stay tuned as I grow and learn step by step! 🌱
+
+## Frontend Projects:
+[Single-Page CV](https://roadmap.sh/projects/single-page-cv),[Basic HTML Website](https://roadmap.sh/projects/single-page-cv)
