@@ -1,36 +1,38 @@
-# 💼 Project 3: Personal Portfolio Website
+# Personal Portfolio Website
 
-This is a **personal portfolio website** built as part of the [roadmap.sh Portfolio Website Project](https://roadmap.sh/projects/portfolio-website). It showcases a basic multi-section site using only **HTML and CSS**, focusing on responsive design, clean structure, and modern layout techniques.
+This is my solution for the [roadmap.sh Portfolio Website Project](https://roadmap.sh/projects/portfolio-website).
 
-## 🔗 Project Page
+---
 
+## 🚀 Live Project Page
+
+**You can view the deployed portfolio website here:**  
 [https://SaNtOsH6099.github.io/Frontend-Projects-From-Roadmap.sh/Project%203%20Personal%20portfolio/](https://SaNtOsH6099.github.io/Frontend-Projects-From-Roadmap.sh/Project%203%20Personal%20portfolio/)
 
 ---
 
-## 📁 View Project Folder
+## 📁 Project Repository
 
-[GitHub Repository Folder](https://github.com/SaNtOsH6099/Frontend-Projects-From-Roadmap.sh/tree/main/Project%203%20Personal%20portfolio)
-
----
-
-## ✨ Features
-
-- Responsive layout
-- About, Projects, and Contact sections
-- Navigation bar with internal links
-- Clean and minimal styling
+GitHub Repository:  
+[https://github.com/SaNtOsH6099/Frontend-Projects-From-Roadmap.sh/tree/main/Project%203%20Personal%20portfolio](https://github.com/SaNtOsH6099/Frontend-Projects-From-Roadmap.sh/tree/main/Project%203%20Personal%20portfolio)
 
 ---
 
-## 🌐 Live Demo
+## 📝 About
 
-[Live Site](https://santosh6099.github.io/Frontend-Projects-From-Roadmap.sh/Project%203%20Personal%20portfolio/)
+This project is a personal portfolio website built as part of my frontend development journey. It showcases my skills, projects, and contact information.
 
 ---
 
-## 🖼️ Demo Screenshot
+## 📚 How to Use
 
-![Demo Screenshot](./assets/demo.png)
+1. Visit the [Live Project Page](https://SaNtOsH6099.github.io/Frontend-Projects-From-Roadmap.sh/Project%203%20Personal%20portfolio/) to see the portfolio in action.
+2. Explore the code in this repository to see how the site was built.
+
+---
+
+## 🙌 Credits
+
+Built by [SaNtOsH6099](https://github.com/SaNtOsH6099) as part of [roadmap.sh](https://roadmap.sh/) challenges.
 
 ---
