@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Contact page for my personal portfolio website.">
+    <meta property="og:title" content="Contacts Page">
+    <meta property="og:description" content="Contact me through email, phone, or social media.">
+    <meta property="og:image" content="">
+    <link rel=" icon" href="https://img.icons8.com/arcade/64/parse-from-clipboard.png">
+    <title>Contacts page</title>
+    <link rel="stylesheet" href="stylings/style.css">
+    <link rel="stylesheet" href="stylings/contact-style.css">
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="empty">
+            <nav class="flex">
+                <div class="logo flex">
+                    <img src="image/avatar.jpg" alt="logo">
+                    <a href="index.html">
+                        <h1>Santosh Chandra</h1>
+                    </a>
+                </div>
+                <div class="nav-links">
+                    <ul class="flex">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="projects.html">Projects</a></li>
+                        <li><a href="progess.html">Progress</a></li>
+                        <li><a href="#" class="active">Contact</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+
+
+        <main>
+
+            <header class="heading">
+                <h1>Contact Me</h1>
+            </header>
+            <div class="all-info">
+
+
+                <div class="info">
+                    <div class="email contact">
+                        <label for="email" class="label">Email: </label>
+                        <a href="">santoshxyz@gmail.com</a>
+                    </div>
+                    <div class="phone contact">
+                        <label for="phone" class="label">Phone: </label>
+                        <a href="">+91-XXXXXXXXXX</a>
+                    </div>
+                    <div class="github contact">
+                        <label for="github" class="label">Github: </label>
+                        <a href="https://github.com/SaNtOsH6099">View Profile</a>
+                    </div>
+                    <div class="linkedin contact">
+                        <label for="linkedin" class="label">Linkedin: </label>
+                        <a href="https://www.linkedin.com/in/santoshchandra/">View Profile</a>
+                    </div>
+                </div>
+
+                <p>Or, send me a message directly through the form below:</p>
+
+                <form action="mailto:santosh@example.com" method="post" enctype="text/plain">
+                    <div class="name ">
+                        <label for="name">Name:</label><br>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+
+                    <div class="email ">
+                        <label for="email">Email:</label><br>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+
+                    <div class="message">
+                        <label for="message">Message:</label><br>
+                        <textarea id="message" name="message" rows="5" required></textarea>
+                    </div>
+
+                    <input type="submit" value="Send Message">
+                </form>
+            </div>
+        </main>
+    </div>
+</body>
+
+</html>
