@@ -1,51 +1,26 @@
-# 🚀 Frontend Projects – roadmap.sh
+# Front-end Projects from Roadmap.sh
 
-This repository contains all the frontend development practice projects I’m building from the [roadmap.sh Frontend Developer Projects](https://roadmap.sh/projects). Each project is organized in its own folder and focuses on building specific skills in HTML, CSS, and later JavaScript.
+This repository contains front-end projects built following the [roadmap.sh](https://roadmap.sh/) front-end developer path.
 
----
+## Projects List
 
-## 📁 List of Projects
+[Basic HTML Website](https://roadmap.sh/projects/basic-html-website),  
+[Personal Portfolio](https://roadmap.sh/projects/portfolio-website),  
+[Single Page CV](https://roadmap.sh/projects/single-page-cv)
 
----
+Click any of the images below to view the README and live demo of the project.
 
-### ✅ Project 1: Single Page CV
+<p align="left">
+  <a href='Frontend Projects/01-single-page-cv/'>
+    <img width="48%" src="assets/single-page-cv.png" alt="single page cv" />
+  </a>
+  <a href='Frontend Projects/02-basic-html-website/'>
+    <img width="48%" src="assets/basic-html-website.png" alt="basic html website" />
+  </a>
+</p>
 
-A single-page CV layout built using only HTML. It includes semantic tags, personal info, education, and contact sections.
-
-📂 [Project Folder](./Project%201%20Single%20Page%20CV)  
-🖼️ Demo Screenshot:  
-![Demo](./Project%201%20Single%20Page%20CV/assets/demo.png)
-
----
-
-### ✅ Project 2: Basic HTML Website
-
-A multi-page static website using only HTML. This project focuses on internal linking and proper page structure across About, Services, and Contact pages.
-
-📂 [Project Folder](./Project%202%20Basic%20Html%20Website)  
-🖼️ Demo Screenshot:  
-![Demo](./Project%202%20Basic%20Html%20Website/assets/demo.png)
-
----
-
-### ✅ Project 3: Personal Portfolio
-
-A responsive personal portfolio website using HTML and CSS. It includes an introduction, project highlights, and a contact form layout using Flexbox and media queries.
-
-📂 [Project Folder](./Project%203%20Personal%20portfolio)  
-🖼️ Demo Screenshot:  
-![Demo](./Project%203%20Personal%20portfolio/assets/demo.png)
-
----
-
-## 📌 Source of Projects
-
-These projects are based on challenges from  
-🔗 [https://roadmap.sh/projects](https://roadmap.sh/projects)
-
----
-
-## 📮 Contact
-
-Built by [@SaNtOsH6099](https://github.com/SaNtOsH6099)  
-Feel free to suggest improvements or connect!
+<p align="left">
+  <a href='Frontend Projects/03-personal-portfolio/'>
+    <img width="48%" src="assets/personal-portfolio.png" alt="personal portfolio" />
+  </a>
+</p>
