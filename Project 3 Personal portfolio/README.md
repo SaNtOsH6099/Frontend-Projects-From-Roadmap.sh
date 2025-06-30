@@ -2,27 +2,38 @@
 
 https://roadmap.sh/projects/portfolio-website
 
-This project is part of the [Frontend Developer Roadmap](https://roadmap.sh/frontend) from roadmap.sh.
-
-## 📄 Project Overview
-
-The Personal Portfolio Website is a responsive portfolio site built using only HTML and CSS. It demonstrates layout structuring, styling, and mobile responsiveness using modern CSS.
-
-### Features
-
-- Responsive design using Flexbox and media queries
-- Navigation bar with internal links
-- About, Projects, and Contact sections
-- Clean and simple personal branding layout
-
-## 🌐 Live Demo
-
-[View the live website here.](https://santosh6099.github.io/Frontend-Projects-From-Roadmap.sh/Project%203%20Personal%20portfolio/)
-
-## 🖼️ Demo Screenshot
-
-![Demo](./assets/demo.png)
+This project is part of the Frontend Developer Roadmap from [roadmap.sh](https://roadmap.sh/frontend).  
+It is a responsive personal portfolio website built using only HTML and CSS.
 
 ---
 
-Thank you for visiting! Feedback and suggestions are always welcome.
+## 📄 Project Overview
+
+The Personal Portfolio Website is designed to showcase your work, skills, and contact information.  
+It uses semantic HTML5 structure and CSS3 for layout and styling, with responsive design using Flexbox and media queries.
+
+---
+
+## ✨ Features
+
+- Responsive layout
+- About, Projects, and Contact sections
+- Navigation bar with internal links
+- Clean and minimal styling
+
+---
+
+## 🌐 Live Demo
+
+[Live Site](https://santosh6099.github.io/Frontend-Projects-From-Roadmap.sh/Project%203%20Personal%20portfolio/)
+
+---
+
+## 🖼️ Demo Screenshot
+
+![Demo Screenshot](./assets/demo.png)
+
+---
+
+## 📁 Folder Structure
+
