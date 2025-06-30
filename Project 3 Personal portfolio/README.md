@@ -1,40 +1,26 @@
-# 💼 Project 3: Personal Portfolio Website
+# Personal Portfolio Website
 
-**Project URL:** https://roadmap.sh/projects/portfolio-website
+This project is part of my journey following the [Frontend Developer Roadmap](https://roadmap.sh/frontend) from [roadmap.sh](https://roadmap.sh/projects/portfolio-website).
 
-This project is built as part of the official roadmap.sh challenge  
-👉 [Portfolio Website Project – roadmap.sh](https://roadmap.sh/projects/portfolio-website)
+## 📄 Project Overview
 
-It is a responsive personal portfolio website using only **HTML and CSS**, focusing on layout, design, and responsiveness.
+The Personal Portfolio Website is a responsive site built using only HTML and CSS. It demonstrates layout structuring, Flexbox, styling, and responsive design principles.
 
-📁 [View Project Folder](https://github.com/SaNtOsH6099/Frontend-Projects-From-Roadmap.sh/tree/main/Project%203%20Personal%20portfolio)
+### Features
 
----
+- **Responsive Layout:** Built with Flexbox and media queries.
+- **Navigation Bar:** Links to About, Projects, and Contact sections.
+- **Contact Form:** Styled layout (not functional).
+- **Modern Styling:** Clean design with consistent fonts and spacing.
 
-## 🌐 Live Preview
+## 🌐 Live Demo
 
-> *(Optional)* Add this after deploying the site on GitHub Pages or any free host:
->
-> [🔗 Live Site](https://SaNtOsH6099.github.io/Frontend-Projects-From-Roadmap.sh/Project%203%20Personal%20portfolio/)
+[View the live website here.](https://santosh6099.github.io/Frontend-Projects-From-Roadmap.sh/Project%203%20Personal%20portfolio/)
 
----
+## 🖼️ Demo
 
-## ✨ Features
-
-- Responsive layout using Flexbox
-- Navigation bar with active state
-- About, Projects, and Contact sections
-- Simple contact form structure
-- Clean and minimal CSS styling
-- Mobile-friendly design with media queries
+![Demo Screenshot](./assets/demo.png)
 
 ---
 
-## 🖼️ Demo Screenshot
-
-![Demo](./assets/demo.png)
-
----
-
-## 📁 Folder Structure
-
+Thank you for visiting! Feedback and suggestions are welcome.
