@@ -16,11 +16,21 @@ This is a **personal portfolio website** built as part of the [roadmap.sh Portfo
 
 ## ✨ Features
 
-- Responsive layout using Flexbox and media queries
-- Clean and minimal visual design
-- Navigation bar with active state
+- Responsive layout
 - About, Projects, and Contact sections
-- Simple contact form layout (non-functional for now)
-- Mobile-first design structure
+- Navigation bar with internal links
+- Clean and minimal styling
+
+---
+
+## 🌐 Live Demo
+
+[Live Site](https://santosh6099.github.io/Frontend-Projects-From-Roadmap.sh/Project%203%20Personal%20portfolio/)
+
+---
+
+## 🖼️ Demo Screenshot
+
+![Demo Screenshot](./assets/demo.png)
 
 ---
