@@ -2,10 +2,8 @@
 
 https://roadmap.sh/projects/portfolio-website
 
-This project is part of the Frontend Developer Roadmap from roadmap.sh.
+This project is part of the Frontend Developer Roadmap.
 
-
-This project is part of the Frontend Developer Roadmap from [roadmap.sh](https://roadmap.sh/frontend).  
 It is a responsive personal portfolio website built using only HTML and CSS.
 
 ---
