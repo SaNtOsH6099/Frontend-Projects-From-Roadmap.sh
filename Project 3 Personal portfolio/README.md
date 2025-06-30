@@ -1,6 +1,10 @@
 # 💼 Project 3: Personal Portfolio Website
 
-This project is built as part of the official [roadmap.sh Portfolio Website Project](https://roadmap.sh/projects/portfolio-website).  
+**Project URL:** https://roadmap.sh/projects/portfolio-website
+
+This project is built as part of the official roadmap.sh challenge  
+👉 [Portfolio Website Project – roadmap.sh](https://roadmap.sh/projects/portfolio-website)
+
 It is a responsive personal portfolio website using only **HTML and CSS**, focusing on layout, design, and responsiveness.
 
 📁 [View Project Folder](https://github.com/SaNtOsH6099/Frontend-Projects-From-Roadmap.sh/tree/main/Project%203%20Personal%20portfolio)
