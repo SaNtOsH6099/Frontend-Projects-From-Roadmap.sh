@@ -1,37 +1,51 @@
-# Frontend Projects from Roadmap.sh
+# 🚀 Frontend Projects – roadmap.sh
 
-Welcome! This repository contains a collection of frontend projects I am building while following the [Frontend Developer Roadmap](https://roadmap.sh/frontend) from [roadmap.sh](https://roadmap.sh/). Each project is designed to help me strengthen my skills and understanding of modern frontend development concepts and best practices.
-
-## 🚀 About This Repository
-
-- **Learning by Doing:** Each project is based on a challenge or milestone from the roadmap.
-- **Tech Stack:** Projects use HTML, CSS, JavaScript, and other frontend technologies as recommended by the roadmap.
-- **Continuous Growth:** This repository will be updated regularly as I progress through the roadmap and complete new projects.
-
-## 📂 Projects
-
-### [Project 1: Single Page CV](./Project%201%20Single%20Page%20CV/index.html)
-
-A single-page CV built with HTML, showcasing personal information, skills, education, and experience.
-
-### [Project 2: Basic HTML Website](./Project%202%20Basic%20Html%20Website/index.html)
-
-A multi-page website built using only HTML and CSS.  
-**Pages include:**
-
-- [Home](./Project%202%20Basic%20Html%20Website/index.html)
-- [Projects](./Project%202%20Basic%20Html%20Website/projects.html)
-- [Progress](./Project%202%20Basic%20Html%20Website/progess.html)
-- [Contact](./Project%202%20Basic%20Html%20Website/contact.html)
-
-[Project 2 Live Demo](https://santosh6099.github.io/Frontend-Projects-From-Roadmap.sh/Project%202%20Basic%20Html%20Website/)
+This repository contains all the frontend development practice projects I’m building from the [roadmap.sh Frontend Developer Projects](https://roadmap.sh/projects). Each project is organized in its own folder and focuses on building specific skills in HTML, CSS, and later JavaScript.
 
 ---
 
-## 📌 Reference
-
-- [Frontend Developer Roadmap](https://roadmap.sh/frontend)
+## 📁 List of Projects
 
 ---
 
-Thank you for visiting! Feel free to explore the projects and follow my
+### ✅ Project 1: Basic HTML Page
+
+A simple static webpage using only HTML. It includes headings, paragraphs, links, images, and basic page structure.
+
+📂 [Project Folder](./Project%201%20Basic%20Html%20Page)  
+🖼️ Demo Screenshot:  
+![Demo](./Project%201%20Basic%20Html%20Page/assets/demo.png)
+
+---
+
+### ✅ Project 2: Basic HTML Website
+
+A multi-page static website using only HTML. This project practices internal linking, page structure, and creating a small site layout.
+
+📂 [Project Folder](./Project%202%20Basic%20Html%20Website)  
+🖼️ Demo Screenshot:  
+![Demo](./Project%202%20Basic%20Html%20Website/assets/demo.png)
+
+---
+
+### ✅ Project 3: Personal Portfolio Website
+
+A responsive personal portfolio website using HTML and CSS. It includes sections like About, Projects, and Contact, and uses Flexbox for layout and media queries for responsiveness.
+
+📂 [Project Folder](./Project%203%20Personal%20portfolio)  
+🖼️ Demo Screenshot:  
+![Demo](./Project%203%20Personal%20portfolio/assets/demo.png)
+
+---
+
+## 📌 Source of Projects
+
+These projects are based on challenges from  
+🔗 [https://roadmap.sh/projects](https://roadmap.sh/projects)
+
+---
+
+## 📮 Contact
+
+Built by [@SaNtOsH6099](https://github.com/SaNtOsH6099)  
+Feel free to suggest improvements or connect!

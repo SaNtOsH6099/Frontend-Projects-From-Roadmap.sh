@@ -19,6 +19,12 @@ nav {
   background-color: rgb(133, 99, 236);
   border-radius: 1rem;
 }
+.logo img {
+  width: 3rem;
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 1);
+}
 
 nav ul {
   gap: 1rem;
