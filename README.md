@@ -8,19 +8,19 @@ This repository contains all the frontend development practice projects I’m bu
 
 ---
 
-### ✅ Project 1: Basic HTML Page
+### ✅ Project 1: Single Page CV
 
-A simple static webpage using only HTML. It includes headings, paragraphs, links, images, and basic page structure.
+A single-page CV layout built using only HTML. It includes semantic tags, personal info, education, and contact sections.
 
-📂 [Project Folder](./Project%201%20Basic%20Html%20Page)  
+📂 [Project Folder](./Project%201%20Single%20Page%20CV)  
 🖼️ Demo Screenshot:  
-![Demo](./Project%201%20Basic%20Html%20Page/assets/demo.png)
+![Demo](./Project%201%20Single%20Page%20CV/assets/demo.png)
 
 ---
 
 ### ✅ Project 2: Basic HTML Website
 
-A multi-page static website using only HTML. This project practices internal linking, page structure, and creating a small site layout.
+A multi-page static website using only HTML. This project focuses on internal linking and proper page structure across About, Services, and Contact pages.
 
 📂 [Project Folder](./Project%202%20Basic%20Html%20Website)  
 🖼️ Demo Screenshot:  
@@ -28,9 +28,9 @@ A multi-page static website using only HTML. This project practices internal lin
 
 ---
 
-### ✅ Project 3: Personal Portfolio Website
+### ✅ Project 3: Personal Portfolio
 
-A responsive personal portfolio website using HTML and CSS. It includes sections like About, Projects, and Contact, and uses Flexbox for layout and media queries for responsiveness.
+A responsive personal portfolio website using HTML and CSS. It includes an introduction, project highlights, and a contact form layout using Flexbox and media queries.
 
 📂 [Project Folder](./Project%203%20Personal%20portfolio)  
 🖼️ Demo Screenshot:  
