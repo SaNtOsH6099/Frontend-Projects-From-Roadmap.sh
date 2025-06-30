@@ -1,30 +1,52 @@
-# Front-end Projects from Roadmap.sh
+# 🌐 Front-end Projects from Roadmap.sh
 
-This repository contains front-end projects built by following the [roadmap.sh](https://roadmap.sh/) Frontend Developer Learning Path. Each project strengthens fundamental front-end skills through real-world mini applications.
-
-## Projects List
-
-[Basic HTML Website](https://roadmap.sh/projects/basic-html-website)  
-[Personal Portfolio](https://roadmap.sh/projects/portfolio-website)  
-[Single Page CV](https://roadmap.sh/projects/single-page-cv)
+This repository contains front-end projects built by following the [roadmap.sh](https://roadmap.sh/) Frontend Developer Learning Path.  
+Each project focuses on strengthening core skills in HTML, CSS, and JavaScript through real-world UI components and web layouts.
 
 ---
 
-## 📸 Project Previews
+## 📋 Completed Projects
 
-Click on a project image below to explore its source code, README, and demo.
+- ✅ [Single Page CV](https://roadmap.sh/projects/single-page-cv)
+- ✅ [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+- ✅ [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
 
-<p align="left">
-  <a href="Project 1 Single Page CV/">
-    <img width="48%" src="Project 1 Single Page CV/assets/demo.png" alt="Single Page CV Project Screenshot" />
-  </a>
-  <a href="Project 2 Basic Html Website/">
-    <img width="48%" src="Project 2 Basic Html Website/assets/demo.png" alt="Basic HTML Website Project Screenshot" />
-  </a>
-</p>
+---
 
-<p align="left">
-  <a href="Project 3 Personal portfolio/">
-    <img width="48%" src="Project 3 Personal portfolio/assets/demo.png" alt="Personal Portfolio Project Screenshot" />
-  </a>
-</p>
+## ✨ Live Previews
+
+Click on any project image to explore the full code, README, and demo.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="Project 1 Single Page CV/">
+        <img src="Project 1 Single Page CV/assets/demo.png" width="300px" alt="Single Page CV Demo"/><br/>
+        <strong>Project 1: Single Page CV</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="Project 2 Basic Html Website/">
+        <img src="Project 2 Basic Html Website/assets/demo.png" width="300px" alt="Basic HTML Website Demo"/><br/>
+        <strong>Project 2: Basic HTML Website</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="Project 3 Personal portfolio/">
+        <img src="Project 3 Personal portfolio/assets/demo.png" width="300px" alt="Personal Portfolio Demo"/><br/>
+        <strong>Project 3: Personal Portfolio</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 What's Next?
+
+These projects are part of a growing journey through the [Frontend Developer Roadmap](https://roadmap.sh/frontend).  
+More UI components, apps, and challenges will be added regularly — stay tuned!
+
+---
