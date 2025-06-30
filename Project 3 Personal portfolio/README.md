@@ -1,22 +1,28 @@
-# Basic HTML Website
+# 💼 Project 3: Personal Portfolio Website
 
-This project is part of my journey following the [Frontend Developer Roadmap](https://roadmap.sh/frontend) from [roadmap.sh](https://roadmap.sh/projects/basic-html-website).
+This is a **personal portfolio website** built as part of the [roadmap.sh Portfolio Website Project](https://roadmap.sh/projects/portfolio-website). It showcases a basic multi-section site using only **HTML and CSS**, focusing on responsive design, clean structure, and modern layout techniques.
 
-## 📄 Project Overview
-
-The Basic HTML Website is a multi-page site built using only HTML and CSS. It demonstrates foundational web development skills, including semantic markup, page structure, and basic styling.
-
-### Features
-
-- **Home Page:** Introduction and overview.
-- **Projects Page:** Showcases sample projects.
-- **Progress Page:** Tracks learning milestones.
-- **Contact Page:** Provides contact information.
-
-## 🌐 Live Demo
-
-[View the live website here.](https://santosh6099.github.io/Frontend-Projects-From-Roadmap.sh/Project%202%20Basic%20Html%20Website/)
+📁 [View Project Folder](https://github.com/SaNtOsH6099/Frontend-Projects-From-Roadmap.sh/tree/main/Project%203%20Personal%20portfolio)
 
 ---
 
-Thank you for visiting! Feedback and suggestions are welcome.
+## 🌐 Live Preview
+
+> _(Optional)_ You can host this using GitHub Pages and add a link here:
+>
+> [🔗 View Live Site](https://SaNtOsH6099.github.io/Frontend-Projects-From-Roadmap.sh/Project%203%20Personal%20portfolio/)
+
+---
+
+## ✨ Features
+
+- Responsive layout using Flexbox and media queries
+- Clean and minimal visual design
+- Navigation bar with active state
+- About, Projects, and Contact sections
+- Simple contact form layout (non-functional for now)
+- Mobile-first design structure
+
+---
+
+## 📁 Folder Structure
