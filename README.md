@@ -44,7 +44,7 @@ Click on any project image to explore the full code, README, and demo.
     </td>
     <td align="center">
       <a href="Project 4 Changelog Component/">
-        <img src="project 4 changelog component/assets/demo.png" width="300px" alt="Changelog Component Demo"/><br/>
+        <img src="Project 4 Changelog Component/assets/demo.png" width="300px" alt="Changelog Component Demo"/><br/>
         <strong>Project 4: Changelog Component</strong>
       </a>
     </td>
