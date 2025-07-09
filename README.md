@@ -18,7 +18,7 @@ Each project focuses on strengthening core skills in HTML, CSS, and JavaScript t
 
 Click on any project image to explore the full code, README, and demo.
 
-<table>
+<table margin="0 auto">
   <tr>
     <td align="center" colspan="2">
       <a href="Project 1 Single Page CV/">
