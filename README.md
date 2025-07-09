@@ -40,8 +40,6 @@ Click on any project image to explore the full code, README, and demo.
         <strong>Project 3: Personal Portfolio</strong>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" colspan="2">
       <a href="Project 4 Changelog Component/">
         <img src="project 4 changelog component/assets/demo.png" width="300px" alt="Changelog Component Demo"/><br/>
@@ -49,6 +47,7 @@ Click on any project image to explore the full code, README, and demo.
       </a>
     </td>
   </tr>
+
 </table>
 
 ---
