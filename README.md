@@ -20,13 +20,13 @@ Click on any project image to explore the full code, README, and demo.
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="Project 1 Single Page CV/">
         <img src="Project 1 Single Page CV/assets/demo.png" width="300px" alt="Single Page CV Demo"/><br/>
         <strong>Project 1: Single Page CV</strong>
       </a>
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="Project 2 Basic Html Website/">
         <img src="Project 2 Basic Html Website/assets/demo.png" width="300px" alt="Basic HTML Website Demo"/><br/>
         <strong>Project 2: Basic HTML Website</strong>
