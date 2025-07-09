@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  border: 1px solid black;
+  width: 90%;
+  max-width: 700px;
+  text-align: center;
+  margin: 5rem auto;
+  border-radius: 2rem;
+}
+.header {
+  padding: 4rem;
+}
+.title {
+  font-weight: 500;
+  font-size: 3rem;
+}
+.description {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}
+
+.date,
+.description {
+  color: gray;
+}
+
+.changelog {
+  position: relative;
+
+  margin-bottom: 5rem;
+}
+.line {
+  position: absolute;
+  left: 35.8%;
+  height: 100%;
+  border: 1.5px solid black;
+}
+.dot {
+  position: absolute;
+  left: 35%;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: black;
+}
+
+.date {
+  width: 25%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.info {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  text-align: start;
+  font-weight: 600;
+}
+
+.changes {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem;
+}
+
+@media screen and (max-width: 400px) {
+  .title {
+    font-size: 1.8rem;
+  }
+  .description {
+    font-size: 1rem;
+  }
+  .line {
+    left: 37%;
+  }
+}
