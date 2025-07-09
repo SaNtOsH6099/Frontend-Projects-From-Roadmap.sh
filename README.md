@@ -10,6 +10,7 @@ Each project focuses on strengthening core skills in HTML, CSS, and JavaScript t
 - ✅ [Single Page CV](https://roadmap.sh/projects/single-page-cv)
 - ✅ [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
 - ✅ [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
+- ✅ [Changelog Component](https://roadmap.sh/projects/changelog-component)
 
 ---
 
@@ -37,6 +38,14 @@ Click on any project image to explore the full code, README, and demo.
       <a href="Project 3 Personal portfolio/">
         <img src="Project 3 Personal portfolio/assets/demo.png" width="300px" alt="Personal Portfolio Demo"/><br/>
         <strong>Project 3: Personal Portfolio</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="Project 4 Changelog Component/">
+        <img src="project 4 changelog component/assets/demo.png" width="300px" alt="Changelog Component Demo"/><br/>
+        <strong>Project 4: Changelog Component</strong>
       </a>
     </td>
   </tr>
