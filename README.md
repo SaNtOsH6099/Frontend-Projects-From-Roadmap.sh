@@ -49,6 +49,16 @@ Click on any project image to explore the full code, README, and demo.
       </a>
     </td>
   </tr>
+  <tr>
+  <td align="center">
+    <a href="Project 4 Testimonial Cards/">
+      <img src="Project 4 Testimonial Cards/assets/demo.png" width="300px" />
+      <br />
+      <strong>Project 4: Testimonial Cards</strong>
+    </a>
+  </td>
+</tr>
+
 </table>
 
 </div>
