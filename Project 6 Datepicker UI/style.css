@@ -1,0 +1,141 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  position: relative;
+}
+.flex {
+  display: flex;
+}
+.container {
+  padding: 1rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 15%);
+  box-shadow: 0 0 4px black;
+  border-radius: 1rem;
+}
+.header {
+  display: flex;
+  /* border: 1px solid rgb(0, 0, 0); */
+  justify-content: space-between;
+  margin-bottom: 0.3rem;
+  box-shadow: 0 0 3px rgb(73, 73, 73);
+  padding: 0.1rem;
+}
+.date {
+  width: 100%;
+  padding: 0 1rem;
+}
+.calender-icon {
+  width: 3rem;
+  height: auto;
+  outline: none;
+  background-color: azure;
+  border: none;
+  padding: 0.2rem;
+}
+.icon {
+  width: 100%;
+}
+.main {
+  min-height: 400px;
+}
+.main-header {
+  border: 1px solid black;
+}
+.month-year-container {
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  font-size: 24px;
+}
+.left-arrow {
+  width: 0;
+  height: 0;
+  border-top: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+  border-right: 30px solid rgb(54, 53, 53);
+}
+.right-arrow {
+  width: 0;
+  height: 0;
+  border-top: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+  border-left: 30px solid rgb(54, 53, 53);
+}
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+.days {
+  width: 100%;
+}
+.days-container {
+  margin-bottom: 0.4rem;
+}
+.day-names,
+.day-row,
+.days {
+  border: none;
+}
+
+.table-row {
+  justify-content: space-evenly;
+}
+.day-row {
+  /* gap: 2rem; */
+  font-size: 1.5rem;
+}
+
+.month-table {
+  width: 100%;
+}
+
+.date-row {
+  justify-content: space-between;
+}
+.dates {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  /* min-height: 3.5rem; */
+  padding: 1.3rem;
+}
+
+.date-input {
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 0 1rem;
+}
+/* effects */
+.dates:hover {
+  cursor: pointer;
+  background-color: rgba(63, 209, 209, 0.71);
+}
+.dates:active {
+  transform: scale(0.95);
+  background-color: greenyellow;
+  opacity: 0.5;
+}
+
+.date-input:focus {
+  box-shadow: 0 0 5px rgb(27, 254, 10);
+}
+
+.calender-icon:hover {
+  background-color: rgb(201, 239, 180);
+  cursor: pointer;
+}
+.calender-icon:active {
+  transform: scale(0.95);
+  opacity: 0.5;
+}

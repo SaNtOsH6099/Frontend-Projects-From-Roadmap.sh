@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Datepicker UI using HTML and Css">
+    <meta property="og:title" content="Datepicker UI">
+    <meta property="og:description" content="Datepicker UI using HTML and Css">
+    <meta property="og:image" content="">
+    <link rel=" icon" href="https://img.icons8.com/arcade/64/parse-from-clipboard.png">
+    <title>Datepicker UI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="header">
+            <input type="text" for="date" placeholder="dd / mm / yyyy" class="date-input">
+            <button class="calender-icon">
+                <img src="https://img.icons8.com/?size=100&id=GlEOr5x0aJpH&format=png&color=000000" alt="" class="icon">
+            </button>
+        </div>
+
+        <section class="main">
+            <div class="main-header">
+                <div class="month-year-container flex">
+                    <div class="left-arrow"></div>
+                    <p class="month-year">December 2022</p>
+                    <div class="right-arrow"></div>
+                </div>
+                <div class="days-container">
+                    <table class="days">
+                        <tr class="table-row flex day-row">
+                            <td class="day-names data">S</td>
+                            <td class="day-names data">M</td>
+                            <td class="day-names data">T</td>
+                            <td class="day-names data">W</td>
+                            <td class="day-names data">T</td>
+                            <td class="day-names data">F</td>
+                            <td class="day-names data">S</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <div class="main-table-container">
+                <table class="month-table">
+                    <tr class="date-row flex">
+                        <td class="dates"></td>
+                        <td class="dates"></td>
+                        <td class="dates"></td>
+                        <td class="dates"></td>
+                        <td class="dates">1</td>
+                        <td class="dates">2</td>
+                        <td class="dates">3</td>
+                    </tr>
+                    <tr class="date-row flex">
+                        <td class="dates">4</td>
+                        <td class="dates">5</td>
+                        <td class="dates">6</td>
+                        <td class="dates">7</td>
+                        <td class="dates">8</td>
+                        <td class="dates">9</td>
+                        <td class="dates">10</td>
+                    </tr>
+                    <tr class="date-row flex">
+                        <td class="dates">11</td>
+                        <td class="dates">12</td>
+                        <td class="dates">13</td>
+                        <td class="dates">14</td>
+                        <td class="dates">15</td>
+                        <td class="dates">16</td>
+                        <td class="dates">17</td>
+                    </tr>
+                    <tr class="date-row flex">
+                        <td class="dates">18</td>
+                        <td class="dates">19</td>
+                        <td class="dates">20</td>
+                        <td class="dates">21</td>
+                        <td class="dates">22</td>
+                        <td class="dates">23</td>
+                        <td class="dates">24</td>
+                    </tr>
+                    <tr class="date-row flex">
+                        <td class="dates">25</td>
+                        <td class="dates">26</td>
+                        <td class="dates">27</td>
+                        <td class="dates">28</td>
+                        <td class="dates">29</td>
+                        <td class="dates">30</td>
+                        <td class="dates">31</td>
+                    </tr>
+                </table>
+            </div>
+        </section>
+    </div>
+</body>
+
+</html>
