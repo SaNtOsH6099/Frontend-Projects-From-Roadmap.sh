@@ -12,6 +12,7 @@ Each project focuses on strengthening core skills in HTML, CSS, and JavaScript t
 - ✅ [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
 - ✅ [Changelog Component](https://roadmap.sh/projects/changelog-component)
 - ✅ [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
+- ✅ [Datepicker UI](https://roadmap.sh/projects/datepicker-ui)
 
 ---
 
@@ -58,6 +59,12 @@ Click on any project image to explore the full code, README, and demo.
       <strong>Project 4: Testimonial Cards</strong>
     </a>
   </td>
+  <td align="center">
+      <a href="Project 6 Datepicker UI/">
+        <img src="Project 6 Datepicker UI/assets/demo.png" width="300px">
+        <br><strong>Project 6: Datepicker UI</strong>
+      </a>
+    </td>
 </tr>
 
 </table>
