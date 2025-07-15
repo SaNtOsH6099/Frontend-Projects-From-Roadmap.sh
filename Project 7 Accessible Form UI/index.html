@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Accessible Form UI using HTML and Css">
+    <meta property="og:title" content="Accessible Form UI">
+    <meta property="og:description" content="Accessible Form UI using HTML and Css">
+    <meta property="og:image" content="">
+    <link rel=" icon" href="https://img.icons8.com/arcade/64/parse-from-clipboard.png">
+    <title>Accessible Form UI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container flex shadow">
+
+        <div class="form-container">
+
+            <form action="#" class="form">
+                <div class="name-email-container">
+                    <div class="name label-input-container ">
+                        <label for="name">Full Name</label>
+                        <input type="text" aria-required="true">
+                    </div>
+                    <div class="email label-input-container">
+                        <label for="email">Email</label>
+                        <input type="text" aria-required="true" aria-invalid="false">
+                        <div class="error-text"></div>
+                    </div>
+                </div>
+                <div class="password-container">
+                    <div class="enter-password label-input-container">
+                        <label for="enter-password">Enter Password</label>
+                        <input type="password" aria-required="true">
+                    </div>
+                    <div class="confirm-password label-input-container">
+                        <label for="confirm-password">Confirm Password</label>
+                        <input type="password" aria-required="true">
+                    </div>
+                </div>
+                <div class="submit-container">
+                    <input type="submit" value="Update Profile" class="submit shadow">
+                </div>
+            </form>
+
+        </div>
+
+        <div class=" progress-container">
+            <div class="progress-tracker">
+                <div class="represent flex shadow">
+                    <div class="inner flex shadow">65%</div>
+                </div>
+                <p>Profile Completeness</p>
+            </div>
+
+            <div class="checklist shadow">
+                <ul class="list">
+                    <li class="list-items done">Create Account</li>
+                    <li class="list-items done">Update Roadmap Progress</li>
+                    <li class="list-items done">Setup Public Profile</li>
+                    <li class="list-items">Complete your first project</li>
+                    <li class="list-items">Invite your friends</li>
+                </ul>
+            </div>
+
+        </div>
+
+    </div>
+</body>
+
+</html>
