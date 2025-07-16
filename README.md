@@ -71,10 +71,10 @@ Click on any project image to explore the full code, README, and demo.
   <tr>
     <td align="center">
       <a href="Project 7 Accessible Form UI/">
-       <img src="Project 7 Accessible Form UI/assets/demo.png" width="300px" alt="Accessible Form UI Preview"/>
+        <img src="Project 7 Accessible Form UI/assets/demo.png" width="300px" alt="Accessible Form UI Preview"/>
+        <strong>Project 7: Accessible Form UI</strong>
+        <br/>
       </a>
-      <br/>
-    <strong>Project 7: Accessible Form UI</strong>
     </td>
     <td align="center">
       <a href="Project 8 Image Grid Layout/">
