@@ -14,6 +14,7 @@ Each project focuses on strengthening core skills in HTML, CSS, and JavaScript t
 - ✅ [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
 - ✅ [Datepicker UI](https://roadmap.sh/projects/datepicker-ui)
 - ✅ [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui)
+- ✅ [Image Grid Layout](https://roadmap.sh/projects/image-grid)
 
 ---
 
@@ -74,6 +75,13 @@ Click on any project image to explore the full code, README, and demo.
       </a>
       <br/>
     <strong>Project 7: Accessible Form UI</strong>
+    </td>
+    <td align="center">
+      <a href="Project 8 Image Grid Layout/">
+        <img src="Project 8 Image Grid Layout/assets/demo.png" width="300" />
+        <br />
+        <strong>Project 8: Image Grid Layout</strong>
+      </a>
     </td>
   </tr>
 
