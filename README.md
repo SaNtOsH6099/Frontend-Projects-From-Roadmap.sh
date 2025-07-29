@@ -78,11 +78,21 @@ Click on any project image to explore the full code, README, and demo.
     </td>
     <td align="center">
       <a href="Project 8 Image Grid Layout/">
-        <img src="Project 8 Image Grid Layout/assets/demo.png" width="300" />
+        <img src="Project 8 Image Grid Layout/assets/demo.png" width="300px" alt="image grid layout preview"/>
         <br />
         <strong>Project 8: Image Grid Layout</strong>
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Project 9 Tooltip UI/">
+        <img src="Project 9 Tooltip UI/assets/demo.png" width="300px" alt="tooltip ui preview"/>
+        <br/>
+        <strong>Project 9: Tooltip UI</strong>
+      </a>
+    </td>
+    
   </tr>
 
 </table>

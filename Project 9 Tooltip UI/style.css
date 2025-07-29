@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(25, 26, 27);
+  color: white;
+}
+.tooltip-container {
+  display: flex;
+  justify-content: flex-end;
+  gap: 4rem;
+  margin: 0 auto;
+  padding: 1.5rem 5rem;
+  background-color: rgb(70, 66, 66);
+}
+.tooltip {
+  position: relative;
+  text-align: center;
+}
+.tool {
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+.tip {
+  text-wrap: nowrap;
+  border: 1px solid rgb(224, 121, 121);
+  background-color: rgb(224, 121, 121);
+  position: absolute;
+  transform: translateX(-50%) translateY(-10%);
+  top: 125%;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  font-size: 1.5rem;
+
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  pointer-events: none;
+
+  box-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
+.tip::after {
+  content: "";
+  position: absolute;
+  top: 5px; /* Adjust based on the size of the tooltip */
+  left: 50%;
+  transform: translateX(-50%) translateY(-120%);
+  border-width: 15px;
+  border-style: solid;
+  border-color: transparent transparent rgb(224, 121, 121) transparent; /* Triangle pointing up */
+}
+.tool:hover + .tip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(0);
+}
+
+.t-1 {
+  transition: slide-in 0.3s ease;
+}
+@keyframes slide-in {
+  from {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
