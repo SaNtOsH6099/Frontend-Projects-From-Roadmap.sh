@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+  background-color: rgb(18, 16, 16);
+  color: white;
+  position: relative;
+  height: 100vh;
+}
+.tabs-container {
+  display: flex;
+  padding: 2rem;
+  justify-content: center;
+  gap: 5rem;
+  background-color: rgb(11, 11, 11);
+  box-shadow: 0px 1px 4px rgb(0, 0, 0);
+}
+h1 {
+  font-weight: 500;
+}
+.tabs {
+  position: relative;
+}
+
+.content-container {
+  position: relative;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  position: absolute;
+  opacity: 0;
+  font-size: 4rem;
+  transform: translateY(100%);
+  transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+}
+
+.tabs::after {
+  content: "";
+  position: absolute;
+  bottom: -0.7rem;
+  left: 0;
+  height: 2px;
+  width: 0%;
+  background-color: rgb(255, 114, 114);
+  transition: width 0.3s ease;
+}
+.tabs::before {
+  content: "";
+  position: absolute;
+  top: -0.7rem;
+  right: 0;
+  height: 2px;
+  width: 0%;
+  background-color: rgb(255, 114, 114);
+  transition: width 0.3s ease;
+}
+
+.content.active {
+  opacity: 1;
+  transform: translateY(-100%);
+}
+.tabs:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+.tabs:active {
+  transform: scale(0.98);
+}
+.tabs.active::after {
+  width: 100%;
+}
+.tabs.active::before {
+  width: 100%;
+}

@@ -16,6 +16,7 @@ Each project focuses on strengthening core skills in HTML, CSS, and JavaScript t
 - ✅ [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui)
 - ✅ [Image Grid Layout](https://roadmap.sh/projects/image-grid)
 - ✅ [Tooltip UI](https://roadmap.sh/projects/tooltip-ui)
+- ✅ [Tabs](https://roadmap.sh/projects/simple-tabs)
 
 ---
 
@@ -91,6 +92,13 @@ Click on any project image to explore the full code, README, and demo.
         <img src="Project 9 Tooltip UI/assets/demo.png" width="300px" alt="tooltip ui preview"/>
         <br/>
         <strong>Project 9: Tooltip UI</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="Project 10 Tabs/">
+        <img src="Project 10 Tabs/assets/demo.png" width="300px" alt="tabs preview"/>
+        <br/>
+        <strong>Project 10: Tabs</strong>
       </a>
     </td>
     

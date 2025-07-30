@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="tabs component using HTML, CSS, and JavaScript." />
+    <meta property="og:title" content="Tabs Project" />
+    <meta property="og:description" content="tabs component using HTML, CSS, and JavaScript." />
+    <meta property="og:image" content="" />
+    <link rel=" icon" href="https://img.icons8.com/arcade/64/parse-from-clipboard.png" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Tabs</title>
+</head>
+
+<body>
+    <div class="tabs-container">
+
+        <div class="tabs active " data-tab="first">
+            <h1>First Tab</h1>
+        </div>
+
+        <div class=" tabs" data-tab="second">
+            <h1>Second Tab</h1>
+        </div>
+
+        <div class="tabs" data-tab="third">
+            <h1>Third Tab</h1>
+        </div>
+
+        <div class="tabs" data-tab="fourth">
+            <h1>Fourth Tab</h1>
+        </div>
+
+    </div>
+
+    <div class="content-container">
+        <div class="content  active" id="first">First content</div>
+        <div class="content " id="second">Second content</div>
+        <div class="content " id="third">Third content</div>
+        <div class="content " id="fourth">Fourth content</div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
